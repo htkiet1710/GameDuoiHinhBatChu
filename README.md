@@ -1,8 +1,8 @@
 # DuoiHinhBatChu
 
 ### APK
-Download apk file here [Music player v1.0](https://github.com/thqnhngqn-dev/Source/raw/master/app-debug.apk)
+Download apk file here [DuoiHinhBatChu v1.0](https://github.com/htkiet1710/GameDuoiHinhBatChu/raw/master/app-debug.apk)
 ```
-https://github.com/thqnhngqn-dev/Source/raw/master/app-debug.apk
+https://github.com/htkiet1710/GameDuoiHinhBatChu/raw/master/app-debug.apk
 ```
 ## Screen Shots
